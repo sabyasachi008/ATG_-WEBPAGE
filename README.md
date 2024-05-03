@@ -1,7 +1,7 @@
 
 # ATG Webpage
 
-Short description of your project goes here.
+Its primary purpose is to serve as a centralized hub where individuals can connect, share knowledge, and stay updated on industry trends and events.
 
 ## Table of Contents
 
