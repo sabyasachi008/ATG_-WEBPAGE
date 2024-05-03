@@ -1,4 +1,4 @@
-# Welcome to Computer Engineering Community!
+# Welcome to ATG Community!
 
 Join our vibrant community of 142,765 Computer Engineers from around the world. Whether you're a seasoned professional or just starting your journey in computer engineering, you'll find a wealth of knowledge, resources, and opportunities here.
 ## Table of Contents
